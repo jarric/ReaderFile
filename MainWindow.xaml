@@ -1,0 +1,26 @@
+﻿<Window x:Class="ReaderFile.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="180" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,30,0,0" HorizontalAlignment="Center">
+                <TextBlock  Text="被试编号：" Width="100" TextAlignment="Right"/>
+                <TextBox x:Name="TestNum" Width="100"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  >
+                <TextBlock Text="请选择实验水平：" VerticalAlignment="Center" TextAlignment="Right" Width="100"></TextBlock>
+                <ComboBox Height="25" Width="100" SelectedIndex="0" Name="CurLevel">
+                    <ComboBoxItem>1</ComboBoxItem>
+                    <ComboBoxItem>2</ComboBoxItem>
+                    <ComboBoxItem>3</ComboBoxItem>
+                    <ComboBoxItem>4</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+
+
+        <Button Margin="48,110,153,4" Content="确认" Click="Login_Click"></Button>
+        <Button Margin="153,110,48,4" Content="退出" Click="Cancel_Click"></Button>
+    </Grid>
+</Window>

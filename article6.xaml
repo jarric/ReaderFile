@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="ReaderFile.article6"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="810" FontSize="20">
+    <StackPanel>
+        <TextBlock Name="tbk1"  Width="800" TextWrapping="Wrap">
+            <Run Text="       做一个读者，就是加入到人类精神文明的传统中去，做一个文明人。相反，"></Run><Run x:Name="tb1" Text="对于不是读者的人来说，凝聚在书籍中的人类精神财富等于不存在，他们不去享用和占有这笔宝贵的财富，一个人唯有在成了读者以后才会知道，这是多么巨大的损失"></Run><Run Text="。历史上有许多伟大的人物，在他们众所周知的声誉背后，往往有一个人所不知的身份，便是终身读者，即一辈子爱读书的人。在我看来，"></Run><Run x:Name="tb2" Text="一个真正的读者应该具备以下特征："></Run>
+        </TextBlock>
+        <TextBlock Height="20"></TextBlock>
+        <TextBlock Name="tbk2" Width="800" TextWrapping="Wrap">
+            <Run x:Name="tb3" Text="       第一，养成了读书癖好。"></Run><Run Text="也就是说，读书成了生活的必需，真正感到不可缺少，几天不读书就寝食不安。如果你必须强迫自己才能读几页书，你就还不能算是一个真正的读者。当然，这种情形绝非刻意为之，而是"></Run><Run x:Name="tb4" Text="自然而然"></Run><Run Text="的，是品尝到了阅读的快乐之后的必然结果。事实上，每个人天性中都蕴涵着好奇心和求知欲，因而都有可能依靠自己去发现和领略阅读的快乐。遗憾的是，当今"></Run><Run x:Name="tb5" Text="功利至上的教育体制正在无情地扼杀人性中这种最宝贵的特质。"></Run>
+        </TextBlock>
+        <TextBlock Height="20"></TextBlock>
+        <TextBlock Name="tbk3" Width="800" TextWrapping="Wrap">
+            <Run x:Name="tb6" Text="       第三，有较高的读书品位。"></Run><Run Text="一个真正的读者具备基本的判断力和鉴赏力，仿佛拥有一种内在的嗅觉，能够嗅出一本书的优劣，本能地拒斥劣书，倾心好书。"></Run><Run x:Name="tb7" Text="这种能力部分地来自阅读的经验，但更多地源自一个人灵魂的品质"></Run><Run Text="。当然，灵魂的品质是可以不断提高的，"></Run><Run x:Name="tb8" Text="读好书也是提高的途径，二者之间有一种良性循环的关系"></Run><Run Text="。重要的是一开始就给自己确立一个标准，每读一本书，一定要在精神上有收获，能够进一步开启你的心智。只要坚持这个标准，灵魂的品质和对书的判断力就自然会同步得到提高。"></Run>
+        </TextBlock>
+    </StackPanel>
+</UserControl>

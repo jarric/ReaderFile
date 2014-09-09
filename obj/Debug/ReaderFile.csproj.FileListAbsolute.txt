@@ -1,0 +1,442 @@
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Answer\题目1.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Answer\题目2.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Answer\题目3.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Answer\题目4.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Article\文章1.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Article\文章2.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Article\文章3.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Article\文章4.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Question\题目1.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Question\题目2.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Question\题目3.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Question\题目4.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\StartFonts\test.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\StartFonts\Level1.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\StartFonts\Level2.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\StartFonts\Level3.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\StartFonts\Level4.txt
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+G:\Visual Studio 2010\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\Read.baml
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\Result.baml
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+G:\Visual Studio 2010\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\Read.baml
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\Result.baml
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+E:\孙海龙\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\Read.baml
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\Result.baml
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\Read.baml
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\Result.baml
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\Jarric\Documents\Visual Studio 2010\Projects\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\Read.baml
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\Result.baml
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+D:\Klive\workspace\VS\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\Read.baml
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\Result.baml
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\experimentArticle.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\start.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article1.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article2.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article3.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article4.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article5.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question1.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question2.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question3.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question4.txt
+C:\Users\sunhailong\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question5.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\experimentArticle.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article1.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article2.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article3.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article4.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Article\article5.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question1.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question2.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question3.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question4.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\Answer\question5.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Article\experimentArticle.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Article\article1.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Article\article2.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Article\article3.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Article\article4.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Article\article5.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Answer\question1.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Answer\question2.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Answer\question3.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Answer\question4.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Answer\question5.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\Read.baml
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\Result.baml
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+D:\Klive\浙江理工\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Article\experimentArticle.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\StartFonts\start.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Article\article1.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Article\article2.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Article\article3.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Article\article4.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Article\article5.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Answer\question1.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Answer\question2.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Answer\question3.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Answer\question4.txt
+E:\孙海龙\ReaderFile\ReaderFile\bin\Debug\Answer\question5.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\StartFonts\level1.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\StartFonts\level2.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\StartFonts\level3.txt
+D:\Klive\浙江理工\ReaderFile\ReaderFile\bin\Debug\StartFonts\level4.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\level1.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\level3.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\level4.txt
+C:\Users\Jarric\Desktop\ReaderFile\ReaderFile\bin\Debug\StartFonts\level2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Article\experimentArticle.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\StartFonts\level1.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\StartFonts\level3.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\StartFonts\level4.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\StartFonts\level2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Article\article1.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Article\article2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Article\article3.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Article\article4.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Article\article5.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Answer\question1.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Answer\question2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Answer\question3.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Answer\question4.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Answer\question5.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\Read.baml
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\Result.baml
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\App.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\Jarric\Desktop\项目\ReaderFile\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Article\experimentArticle.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level1.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level3.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level4.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Article\article1.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Article\article2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Article\article3.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Article\article4.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Article\article5.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Answer\question1.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Answer\question2.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Answer\question3.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Answer\question4.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Answer\question5.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\Read.baml
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\Result.baml
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\App.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\Jarric\Desktop\项目\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Article\experimentArticle.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level1.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level3.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level4.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level2.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Article\article1.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Article\article2.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Article\article3.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Article\article4.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Article\article5.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Answer\question1.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Answer\question2.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Answer\question3.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Answer\question4.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Answer\question5.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article1.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article2.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article3.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article4.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article5.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article6.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\Read.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\Result.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article1.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article2.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article3.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article4.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article5.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\article6.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\App.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\thinkpad\Desktop\nuist\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csprojResolveAssemblyReference.cache
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Answer\experimentQuestions.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Article\experimentArticle.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level1.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\AllEnd.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level3.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level4.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\level2.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Article\article1.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Article\article2.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Article\article3.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Article\article4.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Article\article5.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Answer\question1.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Answer\question2.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Answer\question3.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Answer\question4.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Answer\question5.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\Record\预实验数据.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\StartFonts\End.txt
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.pdb
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csprojResolveAssemblyReference.cache
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article1.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article2.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article3.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article4.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article5.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article6.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ChooseTemp.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\MainWindow.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\Read.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\Result.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\TestPage.baml
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article1.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article2.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article3.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article4.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article5.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\article6.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ChooseTemp.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\MainWindow.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\Read.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\Result.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\TestPage.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\App.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile_Content.g.cs
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile_MarkupCompile.cache
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.g.resources
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.Properties.Resources.resources
+C:\Users\Jarric\Desktop\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.GenerateResource.Cache
+C:\Users\Jarric\Desktop\XM\孙梦丹\ReaderFilePC\ReaderFile\bin\Debug\ReaderFile.exe.config
+C:\Users\Jarric\Desktop\XM\孙梦丹\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.csproj.ResolveComReference.cache
+C:\Users\Jarric\Desktop\XM\孙梦丹\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.exe
+C:\Users\Jarric\Desktop\XM\孙梦丹\ReaderFilePC\ReaderFile\obj\Debug\ReaderFile.pdb

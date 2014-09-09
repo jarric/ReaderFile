@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="ReaderFile.article4"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="810" FontSize="20">
+    <StackPanel>
+        <TextBlock Name="tbk1" Width="800" TextWrapping="Wrap">
+            <Run x:Name="tb1" Text="       我国风能资源十分丰富"></Run><Run Text="。据专家气象局提供的资料显示:中国地上50米高度可利用的风能资源为5亿多千瓦,海上风能资源也超过5亿千瓦,远远超过可利用水能资源的3.78亿千瓦。"></Run><Run x:Name="tb2" Text="与储量相比,我国风能资源的利用在庞大的能源消耗中不值一提"></Run><Run  Text="。据统计,截至2004年末,我国风力发电总装机容量为76万千瓦,仅占全国电力装机总量的不足千分之二。"></Run>
+        </TextBlock>
+        <TextBlock></TextBlock>
+        <TextBlock Name="tbk2"  Width="800" TextWrapping="Wrap">
+            <Run Text="       我国风能开发利用始于上世纪70年代末、80年代初,至今已"></Run><Run x:Name="tb3" Text="历经20多年"></Run><Run Text="。然而不论是从风能市场占有率、风能在能源消费结构中的比重,还是从风能利用设备的制造水平看,都表现出"></Run><Run x:Name="tb4" Text="严重不足"></Run><Run Text="。与稍先于我国开发风能的丹麦、德国等发达国家及后于我们开发风能的印度相比,"></Run><Run  x:Name="tb5" Text='我国的风能利用始终是一个"长不大的婴儿"。'></Run>
+        </TextBlock>
+        <TextBlock></TextBlock>
+        <TextBlock Name="tbk3"  Width="800" TextWrapping="Wrap">
+            <Run Text="       世界风能协会近日发表一项公报宣布,到2004年,"></Run><Run x:Name="tb6" Text="世界"></Run><Run Text="风力发电能力达"></Run><Run x:Name="tb7" Text="4700"></Run><Run Text="多万千瓦,同比增长"></Run><Run x:Name="tb8" Text="20%"></Run><Run Text="。风力发电的世界冠军是"></Run><Run x:Name="tb9" Text="德国"></Run><Run Text="达"></Run><Run x:Name="tb10" Text="1660万"></Run><Run Text="千瓦,西班牙"></Run><Run x:Name="tb11" Text="第二"></Run><Run Text="为"></Run><Run  x:Name="tb12" Text="820万"></Run><Run Text="千瓦,"></Run><Run  x:Name="tb13" Text="美国"></Run><Run  Text="以"></Run><Run  x:Name="tb14" Text="674万"></Run><Run Text="千瓦位居第三。在"></Run><Run  x:Name="tb15" Text="亚洲,印度"></Run><Run  Text="以"></Run><Run x:Name="tb16" Text="300万千瓦"></Run><Run Text="居首位,我国不到印度的四分之一。"></Run>
+        </TextBlock>
+        <TextBlock></TextBlock>
+        <TextBlock Name="tbk4" Width="800" TextWrapping="Wrap" >
+            <Run Text='       我国风能资源开发利用跑得如此缓慢、如此无力,业内人士一致认为是输在起跑线上,这个"起跑线"就是'></Run><Run x:Name="tb17" Text="市场机制"></Run><Run Text="。内蒙古风电能源有限责任公司徐总工程师称,由于上网电价、进口设备关税、贷款、税收等"></Run><Run x:Name="tb18" Text="优惠政策与扶持措施不到位"></Run><Run Text=',我国的风电产业化从市场这个"源头"被束缚住了。因为我们'></Run><Run  x:Name="tb19" Text="重视不够"></Run><Run Text=",风力发电始终没有市场,投资风电无利可图。"></Run>
+        </TextBlock>
+        <TextBlock ></TextBlock>
+        <TextBlock Name="tbk5"  TextWrapping="Wrap">
+            <Run Text="       不过可喜的是,将于2006年开始施行的《可再生能源法》为风能开发和利用搭建了法律平台,风力发电的上网电价、进口设备关税、对企业的金融支持等问题的解决已提上日程。由于社会各界对风能利用的认识逐步统一,"></Run><Run x:Name="tb20" Text='我国风能利用正在扫清重重障碍,迎来发展的"黄金时代"'></Run><Run Text='。不少敏感的投资者早已嗅到风能利用中蕴含的巨大商机。在国内举办的一些风力发电项目招投标会议上,投资者对项目的争夺十分激烈,有的投资方甚至喊出"血本价",以求得到项目。'></Run>
+        </TextBlock>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="ReaderFile.article5"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="810" FontSize="18">
+    <StackPanel>
+        <TextBlock Name="tbk1"  Width="800" TextWrapping="Wrap">
+            <Run Text="       通常认为，求真求实是中外史学家共同追求的目标，是历史学科区别于其他学科，尤其是文学的重要标准，也是衡量传统历史学著作的一把标尺。古往今来无数历史学家为了维护历史著述的客观性而付出了巨大的努力，甚至生命。"></Run><Run x:Name="tb1" Text="然而，在20世纪，这种观念受到了挑战，反映在历史哲学上是由思辨转移到分析上来。"></Run>
+        </TextBlock>
+        <TextBlock></TextBlock>
+        <TextBlock Name="tbk2" Width="800" TextWrapping="Wrap">
+            <Run Text='       与黑格尔、斯宾格勒、汤因比思辨的历史哲学不同，分析历史哲学提出了"一切历史都是当代史""一切历史都是思想的历史""历史是历史学家心目中的历史"等命题，'></Run><Run x:Name="tb2" Text="其核心是认为在历史学家笔下，纯客观的历史是不存在的"></Run><Run Text="，因为你在收集材料、整理及写作过程中，已经自觉或不自觉地参与了历史的创造，历史著作渗入了历史学家"></Run><Run x:Name="tb3" Text="个人主观"></Run><Run Text='的因素，这些主观因素可能有个人兴趣的影响，也可能有党派、民族、宗教感情等的影响。此可归结为库恩提出的"范式"理论，即学者在从事实际研究时，实际是对一个已形成的先行观念进行修正、补充、改造，或者彻底推翻它。应该说，上述对传统历史学的质疑，'></Run><Run x:Name="tb4" Text="对20世纪后半期的历史认识论产生了深远的影响，当然也对后现代史学产生了影响。"></Run>
+        </TextBlock>
+        <TextBlock></TextBlock>
+        <TextBlock Name="tbk3" Width="800" TextWrapping="Wrap">
+            <Run Text="       尽管分析历史哲学与后现代史学有"></Run><Run x:Name="tb5" Text="异曲同工之妙"></Run><Run Text="，但后者在照单全收的基础上对历史认识论的解剖又大大前进了一步，或者说具有颠覆性的作用，以至于大多历史学家无法接受。"></Run><Run x:Name="tb6" Text="如果说分析历史哲学着重强调历史学家主体作用的话，后现代史学则是通过分析语言的运用和语言的结构来解构传统史学。"></Run><Run Text="他们认为，历史描写采取陈述的形式，而陈述要通过语言来实现；我们所了解的历史事实只是通过语言中介构建的历史，历史的真相我们永远无法知道。德里达就说，只存在文本，这些文本除自身外毫无意义，它们之间没有内在的联系。怀特认为，"></Run><Run x:Name="tb7" Text="即使历史学家能尽量摆脱政治、宗教等主观的因素，他们还会受到另一种主观的、甚至是先验因素的影响，这就是语言风格和修饰形式。"></Run>
+        </TextBlock>
+        <TextBlock>
+        </TextBlock>
+        <TextBlock Name="tbk4"  Width="800" TextWrapping="Wrap">
+            <Run Text="       因为历史著作通过语言来叙述，实际上就是讲故事；故事有情节，于是历史学家在写作的时候，自然而然地就会设置及、安排情节；至于设置什么样的情节，讲什么故事，是喜剧还是悲剧，什么时候开始叫，什么时候结束，则与历史学家个人的"></Run><Run x:Name="tb8" Text="爱好、性情、人格等"></Run><Run Text="因素有关。在"></Run><Run x:Name="tb9" Text="怀特"></Run><Run Text="看来，历史学家的工作与文学家的创作，没有根本的区别。与极端的后现代史学家稍有不同的是，怀特仍然承认历史事实是客观存在的，只是它的存在已没有实际的意义，因为一旦历史学家将历史事实编织到历史叙述中去，该事实的客观性就丧失贻尽了。"></Run>
+        </TextBlock>
+    </StackPanel>
+</UserControl>
